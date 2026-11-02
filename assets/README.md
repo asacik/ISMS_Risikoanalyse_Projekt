@@ -1,4 +1,4 @@
-## 1. Zweck 
+## 1. Zweck eines Asset-Registers
 
 Das Asset-Register dokumentiert die wensentlichen Informationswerte (Assets) der fiktiven Noventis Group GmbH. Es bildet eine Grundlage für die Identifikation, Bewertung und Behandlung von Informationssicherheitsrisiken im rahmen dieses ISMS-Projekts. 
 
@@ -10,7 +10,7 @@ Das Register unterstützt insebesondere:
 - die Verknüpfung von Assets mit identifizierten Risiken.
 - die Ableitung geeigneter Sicherheitsmaßnahmen nach ISO/IEC 27001:2022.
 
-## 2. Aufbau des Regiser 
+## 2. Aufbau des Register 
 
 das Register ist als Excel-Datei umgesetzt und enthält unter anderem folgenden Informationen: 
 
