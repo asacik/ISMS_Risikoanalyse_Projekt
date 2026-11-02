@@ -37,3 +37,11 @@ das Register ist als Excel-Datei umgesetzt und enthält unter anderem folgenden 
 | Anschaffung | Dokumentiertes Anschaffungsdatum, sofern relevant |
 | Risiko-ID | Verknüpfung mit den Risiken aus dem Risikoregister |
 | Maßnahmen (Annex A) | Zugeordnete relevante Maßnahmen aus ISO/IEC 27001:2022 Annex A |
+
+## 3. Bewertung des Schutzbedarfs
+
+Die Bewertung erfolgt anhand der drei klassischen Schutzziele der Informationssicherheit: 
+
+Die Einzelbewertung werden auf einer Skala von 1 - 5 vorgenommen. Die konkreten Bewertungsdefinitionen sind in der Bewertungsmethodik des Projekts festgelegt. 
+
+Die Kritikalität eines Assets dient als zusammenfassende Einschätzung seines Schutzbedarfs. Die Zuordnung erfolgt anhand der im Projekt festgelegten Bewertungsregel. 
